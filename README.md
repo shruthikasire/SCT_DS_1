@@ -1,5 +1,4 @@
 # SCT_DS_1
-Task 1 completed as part of the Data Science Internship at SkillCraft Technology.
 
 
 Task 01: Data Visualization using Bar Chart / Histogram
